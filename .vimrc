@@ -8,5 +8,10 @@ Plug 'mattn/emmet-vim'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-repeat'
 Plug 'powerline/fonts'
+Plug 'preservim/nerdcommenter'
+Plug 'frazrepo/vim-rainbow'
+Plug 'Yggdroot/indentLine'
 call plug#end()
+
+
 

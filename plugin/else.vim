@@ -1,5 +1,5 @@
 set ruler
 set linebreak
 set showcmd
-set scrolloff=4
+set scrolloff=3
 set smartcase

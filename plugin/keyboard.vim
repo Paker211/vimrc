@@ -9,4 +9,12 @@ nnoremap <Del> x
 noremap <C-f> <Esc>
 inoremap <C-f> <Esc>
 
-nnoremap <C-a> A
+inoremap { {<CR>}<Esc>ko
+inoremap ( ()<Esc>ha
+inoremap [ []<Esc>ha
+inoremap < <><Esc>ha
+
+inoremap " ""<Esc>i
+inoremap ' ''<Esc>i
+inoremap ` ``<Esc>i
+
